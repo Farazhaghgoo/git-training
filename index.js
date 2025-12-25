@@ -1,4 +1,4 @@
-console.log('Hello, World!');
+console.log('Hello!');
 console.log('This is the index.js file.');  
 console.log('Enjoy coding!');
 
